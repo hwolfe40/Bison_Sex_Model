@@ -104,8 +104,8 @@ IMAGE_TYPES = ["png", "jpg"]
 
 EXTERNAL_DEPENDENCIES = {
     "bison_sex_AI_v1.pkl": {
-        "url": "https://www.dropbox.com/s/31e6wuwrlm66sco/perumixed3.pkl?dl=1",
-        "size": 179319095
+        "url": "https://drive.google.com/file/d/1lhu3lwg0l30fdD0imNMmyG0NsZLMKYpp/view?usp=share_link",
+        "size": 179194997
     }
 }
 
