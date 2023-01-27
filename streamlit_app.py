@@ -105,7 +105,7 @@ IMAGE_TYPES = ["png", "jpg"]
 EXTERNAL_DEPENDENCIES = {
     "bison_sex_AI_v1.pkl": {
         "url": "https://www.dropbox.com/s/p0cmysf9y10mwfm/bison_sex_AI_v1.pkl?dl=1",
-        "size": 179195904
+        "size": 179194997
     }
 }
 
